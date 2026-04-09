@@ -36,3 +36,4 @@ class MultiTaskPerceptionModel(nn.Module):
         """
         # TODO: Implement forward pass.
         raise NotImplementedError("Implement MultiTaskPerceptionModel.forward")
+MultiTaskPerceptionModel = MultiTaskVGG
